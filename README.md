@@ -19,13 +19,13 @@
 - 👨‍💻 Cyber-security student
 - 💽 Music-enthusiast
 
-## My cool things
+## 😎 My cool things
 
-- My writeups
-- My projects
-- My visual things
+- 🏴‍☠️ My writeups
+- 💼 My projects
+- 📷 My visual things
 
-## Where can you find me ?
+## 🗺 Where can you find me ?
 
 - On [root-me](https://www.root-me.org/Ambrosii)
 - On [404nuits.github.io](https://404nuits.github.io)
