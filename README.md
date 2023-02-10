@@ -4,7 +4,6 @@
 
 ## 🕵️‍♂️ About Me
 
-![](https://img.shields.io/badge/Love-Arch-blue?logo=archlinux)
 ![](https://img.shields.io/badge/Love-Photoshop-blue?logo=adobephotoshop)
 ![](https://img.shields.io/badge/Love-Illustrator-orange?logo=adobeillustrator)
 ![](https://img.shields.io/badge/Love-Blender-orange?logo=blender)
